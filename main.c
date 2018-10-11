@@ -34,7 +34,7 @@ int main(int argc,char **argv)
         {
         case 'h':
             h_flag=1;
-            break;
+            break; 
         case 's':
             //String_value will have the -s value
             string_value=optarg;
